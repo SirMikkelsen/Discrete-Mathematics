@@ -1,4 +1,3 @@
 # Discrete-Mathematics
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![](images/03-assignment-1.png)
